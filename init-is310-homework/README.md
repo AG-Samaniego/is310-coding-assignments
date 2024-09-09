@@ -9,8 +9,9 @@ Hypothesis account: agsamaniego
 
 2. Git 
 
-![Git Installation]()
+![Git Installation](images/IS310-Git-Install.png)
+Bottom line has which version of Git I have installed!
 
 3. VS Code
 
-![VS Code Installation]()
+![VS Code Installation](images/IS310-VSCode-Install.png)
