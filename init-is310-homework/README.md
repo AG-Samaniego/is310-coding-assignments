@@ -1,7 +1,7 @@
 # INIT IS310 Homework
 
 ## Proof of Installation
-Discord Username: ags__
+Discord Username: a.gem (Profile name is AG Samaniego)
 Hypothesis account: agsamaniego
 
 1. Python
@@ -13,4 +13,4 @@ Hypothesis account: agsamaniego
 
 3. VS Code
 
-![VS Code Installation]
+![VS Code Installation]()
