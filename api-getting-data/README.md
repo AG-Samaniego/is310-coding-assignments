@@ -8,3 +8,5 @@ Out of personal curiosity, I took the data for the term "pina" (usually spelled 
 
 ### Misc History:
 Some history: Pina was not traditionally made in the Philippines prior to Spanish colonization, as pineapple was not native to the Philippines. Filipinos have had a long tradition of weaving textiles from various materials, and eventually we adopted the leaves from the Spanish pineapple for use in textile-weaving; for a time, it was traded across parts of the European continent, and was commonly worn within upper casta in colonial Philippines. (Source: [SFO Museum](https://www.sfomuseum.org/exhibitions/pineapple-pina-philippine-textile))
+
+Glad to see it was in the Europeana archives-- the textile is just as much part of our colonial history as it is Spain's, and my people certainly never forgot lol.
