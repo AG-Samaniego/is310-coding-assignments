@@ -1,6 +1,6 @@
 # GETting Culture Across APIs Homework!
 ## About
-**APIs Used**: Europeana API & MET Museum API
+**APIs Used**: Europeana API & MET Museum API (link [here](https://metmuseum.github.io/))
 - For this assignment, I chose the Metropolitan Museum of Art API because I know it has a massive collection of artwork and textiles. 
 
 Out of personal curiosity, I took the data for the term "pina" (usually spelled with an enye), a woven textile from the Philippines. While the MET API returned 44 results, the Europeana API only returned 2; it may potentially be because I spelled the query without the neye but regardless, it was a pleasant surprise to find it in its archive.
